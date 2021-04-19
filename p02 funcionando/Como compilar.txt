@@ -1,0 +1,7 @@
+Como compilar
+
+gcc queue.c testafila.c -o test
+
+
+
+gcc -o teste2021  pingpong.c pingpong-tasks3.c
